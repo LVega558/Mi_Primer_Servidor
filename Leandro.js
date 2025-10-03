@@ -14,3 +14,7 @@ function Hola4() {
     var mensaje = "Hola, Leandro 4";
     console.log(mensaje);
 }
+function Hola5() {
+    var mensaje = "Hola, Leandro 5";
+    console.log(mensaje);
+}
